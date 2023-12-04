@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/jinping4038.github.io/static/css/main.cbf4cb19.css",
-    "main.js": "/jinping4038.github.io/static/js/main.b472ea07.js",
+    "main.js": "/jinping4038.github.io/static/js/main.928383cb.js",
     "static/js/787.8cc45def.chunk.js": "/jinping4038.github.io/static/js/787.8cc45def.chunk.js",
     "static/media/profile_photo.png": "/jinping4038.github.io/static/media/profile_photo.9772cb06bc57e80935da.png",
     "static/media/photo_cover.jpeg": "/jinping4038.github.io/static/media/photo_cover.c81976efafe9534a2b63.jpeg",
     "index.html": "/jinping4038.github.io/index.html",
     "main.cbf4cb19.css.map": "/jinping4038.github.io/static/css/main.cbf4cb19.css.map",
-    "main.b472ea07.js.map": "/jinping4038.github.io/static/js/main.b472ea07.js.map",
+    "main.928383cb.js.map": "/jinping4038.github.io/static/js/main.928383cb.js.map",
     "787.8cc45def.chunk.js.map": "/jinping4038.github.io/static/js/787.8cc45def.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cbf4cb19.css",
-    "static/js/main.b472ea07.js"
+    "static/js/main.928383cb.js"
   ]
 }
