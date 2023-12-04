@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.9da7ef51.css",
-    "main.js": "/static/js/main.3429a1de.js",
-    "static/js/787.8cc45def.chunk.js": "/static/js/787.8cc45def.chunk.js",
-    "static/media/profile_photo.png": "/static/media/profile_photo.9772cb06bc57e80935da.png",
-    "static/media/photo_cover.jpeg": "/static/media/photo_cover.c81976efafe9534a2b63.jpeg",
-    "index.html": "/index.html",
-    "main.9da7ef51.css.map": "/static/css/main.9da7ef51.css.map",
-    "main.3429a1de.js.map": "/static/js/main.3429a1de.js.map",
-    "787.8cc45def.chunk.js.map": "/static/js/787.8cc45def.chunk.js.map"
+    "main.css": "/jinping4038.github.io/static/css/main.d18a2780.css",
+    "main.js": "/jinping4038.github.io/static/js/main.b472ea07.js",
+    "static/js/787.8cc45def.chunk.js": "/jinping4038.github.io/static/js/787.8cc45def.chunk.js",
+    "static/media/profile_photo.png": "/jinping4038.github.io/static/media/profile_photo.9772cb06bc57e80935da.png",
+    "static/media/photo_cover.jpeg": "/jinping4038.github.io/static/media/photo_cover.c81976efafe9534a2b63.jpeg",
+    "index.html": "/jinping4038.github.io/index.html",
+    "main.d18a2780.css.map": "/jinping4038.github.io/static/css/main.d18a2780.css.map",
+    "main.b472ea07.js.map": "/jinping4038.github.io/static/js/main.b472ea07.js.map",
+    "787.8cc45def.chunk.js.map": "/jinping4038.github.io/static/js/787.8cc45def.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9da7ef51.css",
-    "static/js/main.3429a1de.js"
+    "static/css/main.d18a2780.css",
+    "static/js/main.b472ea07.js"
   ]
 }
